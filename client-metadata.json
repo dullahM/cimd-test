@@ -1,0 +1,13 @@
+{
+  "client_id": "https://dullahm.github.io/cimd-test/client-metadata.json",
+  "client_name": "CIMD Test Client (MCP)",
+  "client_uri": "https://dullahm.github.io/cimd-test",
+  "redirect_uris": [
+    "https://dullahm.github.io/cimd-test/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web",
+  "scope": "openid"
+}
