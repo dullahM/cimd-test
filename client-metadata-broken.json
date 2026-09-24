@@ -1,0 +1,10 @@
+{
+  "client_id": "https://dullahm.github.io/cimd-test/client-metadata-broken.json",
+  "client_name": "CIMD Broken Test Client (mismatched origin)",
+  "client_uri": "https://dullahm.github.io/cimd-test",
+  "redirect_uris": ["https://example.com/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "openid"
+}
