@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "cimd-test-key-1",
+      "n": "sxyZV5Op4Y_QA_r_fHvMdrn6OCrg7YvEmQn_BK_1qIxa8-f2dfMqa_u7DpBWYkq6kyJjb7JJaUhGxP-cteVdJ-cadHy2HyQdwFttTa63P23JzqTqIe6M-zFtTj5lhkOJFkc5YoVd480gfPuJfzSD3P4DtssauhG3XP3h9WvqRC604hP4rHQaU053bovzxPEJ8mBs1ExF2iaYsSqb3M1pG9LXLmzth1XkpGLF26grZpqirneVanPus5eKglJVe0GKsDex4rJYtpqH7hMttrKHL3sHzfTxb9HzhfAJDAH3uC7cLsIEI0GNKiqHAhWGJOSGLcviN0g3bHKveyKUJPlSkw",
+      "e": "AQAB"
+    }
+  ]
+}

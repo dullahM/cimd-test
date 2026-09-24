@@ -1,0 +1,9 @@
+{
+  "client_id": "https://dullahm.github.io/cimd-test/client-metadata-cc.json",
+  "client_name": "CIMD Test Client (client_credentials)",
+  "client_uri": "https://dullahm.github.io/cimd-test",
+  "grant_types": ["client_credentials"],
+  "token_endpoint_auth_method": "private_key_jwt",
+  "jwks_uri": "https://dullahm.github.io/cimd-test/jwks.json",
+  "scope": "profile"
+}
